@@ -1,6 +1,7 @@
 <script>
   import 'terminal.css'
   import { page } from '$app/stores'
+  import '$lib/fonts.css'
 </script>
 <header>
   <a href="/" class="link">NITMC JOKEN</a>
